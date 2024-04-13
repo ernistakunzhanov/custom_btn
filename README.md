@@ -13,6 +13,7 @@ To use this package, add custom_btn as a dependency in your pubspec.yaml file.
 
 ## Usage
 
-CustomButton()
 
 ```dart
+CustomButton()
+```
