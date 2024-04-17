@@ -4,7 +4,7 @@ A flutter fidget for custom buttons.
 
 ## Features
 
- - custom button 
+ - custom btn 
 
 
 ## Getting started
@@ -15,5 +15,5 @@ To use this package, add custom_btn as a dependency in your pubspec.yaml file.
 
 
 ```dart
-CustomButton()
+CustomBtn()
 ```
